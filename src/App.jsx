@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Todo from './componentss/todo'
+import Todo from './componentss/Todo'
 
 
 function App() {
